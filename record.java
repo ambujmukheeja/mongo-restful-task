@@ -1,3 +1,5 @@
+package com.ambuj.mrt.model;
+
 public class Record {
     protected int uid;
     protected String name;
